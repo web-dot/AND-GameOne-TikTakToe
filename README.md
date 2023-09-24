@@ -1,1 +1,1 @@
-tick-tack-toe
+tik-tak-toe
